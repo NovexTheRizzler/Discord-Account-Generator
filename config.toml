@@ -1,0 +1,10 @@
+
+
+[MAIN]
+capsolver_key = \\ Put capsolver_key
+site_key = \\ Put site_key
+
+[STATUS]
+sleep_interval = 1
+
+
