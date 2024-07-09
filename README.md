@@ -30,10 +30,9 @@ publish date: 7/10/2024
 ### ⚙️ Installation
 
 - Requires: `Python 3.10+`
-- Install the requirements: `pip install -r requirements.txt`
 - Add your proxies to `proxies.txt`
 - Edit the `config.toml` to your preference
-- Start: `python3 main.py`
+- Start: `python3 main.exe`
 
 ---
 
@@ -65,11 +64,3 @@ publish date: 7/10/2024
 
 ---
 
-### 📜 ChangeLog
-
-```diff
-v0.0.1 ⋮ 4/9/2023
-! Initial release
-```
-
----
